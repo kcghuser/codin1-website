@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  web:
+    container_name: cochrane_kwinton_coding_assignment11
+    build: .
+    ports:
+      - "7775:3000"
+    volumes:
+      - .:/lastName_firstName_site
+    stdin_open: true
+    tty: true
