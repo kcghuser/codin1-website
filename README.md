@@ -1,15 +1,15 @@
 # Codin 1 Website
 
-This is a simple React application that displays an `<h1>` tag with the text "Codin 1".
+Follow these steps to set up and run my Codin 1 website.
 
-## How to Run Locally with Docker
+## Step-by-Step Instructions
 
-### Prerequisites:
-- Docker installed on your machine.
+1. **Install Docker**
+2. **Create Project Files**
+3. **Build the Docker Image**
 
-### Steps:
+if you are getting from github
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd codin1-website
+1. **Install Docker**
+2. **Install project files**
+3. **Build the Docker Image**
